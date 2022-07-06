@@ -1,5 +1,4 @@
-package ru.appleinsider;//import org.junit.Assert;
-//import org.junit.Test;
+package ru.appleinsider;
 
 import org.testng.Assert;
 import org.testng.annotations.Test;
